@@ -27,7 +27,7 @@ function App() {
       <WalletProvider wallets ={wallets} autoConnect>
         <WalletModalProvider>
         <WalletMultiButton/>
-        <h1>Hello SOlana</h1>
+        <h1>Hello Solana</h1>
         </WalletModalProvider>
       </WalletProvider>
     </ConnectionProvider>
